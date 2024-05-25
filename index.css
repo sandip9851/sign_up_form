@@ -1,0 +1,17 @@
+input,label,button{
+  display: block;
+  margin: 15px;
+  font-size: 1rem;
+}
+#btn a{
+  text-decoration: none;
+}
+.error{
+  color: red;
+  font-size: 20px;
+}
+
+.sucess{
+  color: green;
+  font-size: 20px;
+}
